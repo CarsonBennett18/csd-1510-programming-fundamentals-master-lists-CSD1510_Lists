@@ -15,6 +15,7 @@
 #pizza, beef jerkey, rice triangles, steamed chinese bun, fried chicken 
 #You entered a total of 62 characters
 
+
 foods = []
 
 for i in range(5):

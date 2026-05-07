@@ -20,6 +20,7 @@
 #Player one's lowest number is 1 at index 4
 #Player two's lowest number is 1 at index 5
 
+
 import random
 
 player_one = [random.randint(1, 50) for _ in range(10)]
